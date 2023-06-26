@@ -6,7 +6,7 @@ import PySimpleGUI as sg
 # window.close()
 
 label = sg.Text("Type in a to-do")
-input_box = sg.InputText(tooltip="Enter todo", key="todo") # am pus key=# "todo"
+input_box = sg.InputText(tooltip="Enter todo", key="todo") # am pus key=
                                                             # pentru a fi cheia din dictionar pentru ceea ce am adaugat
 add_button = sg.Button("Add")
 
