@@ -1,5 +1,6 @@
-make soup
-make desert
-Clean the code
-My new todo
-Master Python!
+add pizza
+buy pasta
+drink wine 
+and beermy newest todo is added
+drink wine 
+and beer
