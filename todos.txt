@@ -1,6 +1,2 @@
-add pizza
-buy pasta
-drink wine 
-and beermy newest todo is added
-drink wine 
-and beer
+Do the laundry.
+Help the neighbour.
